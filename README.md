@@ -1,0 +1,1 @@
+# Qualcomm_QCC51xx-OpenSourceCapabilities
